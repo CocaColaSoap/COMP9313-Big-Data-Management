@@ -1,0 +1,23 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "2 1 /Users/lijiachen/Desktop/Postgreduate/19T2/COMP9313/Ass1/assignment1/input /Users/lijiachen/Desktop/output"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Assignment1<assignment1>",
+            "request": "launch",
+            "mainClass": "assignment1.Assignment1",
+            "projectName": "assignment1",
+        }
+    ]
+}
